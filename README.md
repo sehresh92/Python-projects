@@ -46,7 +46,7 @@ https://github.com/sehresh92/Python-projects-/blob/main/bucket%20sort.py
 
 Calculator
 
-https://github.com/sehresh92/Python-projects-/blob/main/calculator.py 
+https://github.com/sehresh92/Python-projects/blob/main/calculator.py
 
 simple Printing
 
