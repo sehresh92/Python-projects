@@ -72,6 +72,4 @@ Sequential Search
 
 https://github.com/sehresh92/Python-projects-/blob/main/sequential%20search.py
 
-Shell sort
 
-https://github.com/sehresh92/Python-projects-/blob/main/shell%20sort.py
